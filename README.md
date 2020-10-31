@@ -11,6 +11,7 @@
 - Material UI
   
 #### To-Do List
+- [ ] Add Emojis, GIF, Stickers
 ##### Fronted
 - [x] Login Page.
 - [x] Chat window template.
